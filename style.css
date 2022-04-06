@@ -12,3 +12,27 @@ h4 {
     height: 10rem;
     /* border: 1px solid red; */
 }
+
+.navbarCustom {
+	margin: auto;
+	background-color: #bdd6e7;
+    color: white;
+}
+
+.nav-item{
+    color: white;
+}
+
+.customContainer {
+    width: '100%';
+    margin: 5px;
+}
+
+.titleBar {
+    margin-top: 90px;
+    margin-bottom: 5px;
+}
+
+.titleText{
+    color:rgb(48, 78, 117);
+}
