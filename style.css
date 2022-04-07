@@ -36,3 +36,18 @@ h4 {
 .titleText{
     color:rgb(48, 78, 117);
 }
+.box{
+    margin: 100px;
+}
+
+.card {
+    width: 30rem;
+    padding: 20px;
+}
+.card-img-top {
+    height: 40vh;
+}
+.card-body{
+    background-color: rgb(168, 220, 222);
+
+}
